@@ -6,7 +6,7 @@
 ![Login Page](/images/2-login.png)
 
 - **Register Page**:
-![Register Page](/images/2-register.png)
+![Register Page](/images/1-register.png)
 
 - **User Profile**:
 ![User Profile](/images/8-user-actions.png)
@@ -20,7 +20,7 @@
 - **Update Note**:
 ![Update Note](/images/5-update-note.png)
 
-- **Note Option**:
+- **Note Options**:
 ![Note Option](/images/6-note-actions.png)
 
 - **New Folder**:
@@ -31,10 +31,10 @@
 ## Mobile View:
 
 - **Note Home**:
-![Note Home](/images/1-note.png)
+![Note Home Mobile](/images/1-note.png)
 
 - **Update Note**:
-![Update Note](/images/1-edit.png)
+![Update Note Mobile](/images/2-edit.png)
 
 - **Menu **:
 ![Update Note](/images/3-all.png)
