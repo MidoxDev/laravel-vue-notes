@@ -1,5 +1,5 @@
 # Note Management System with Authentication
-![Notes Home](images/1-notes.png)
+![Notes Home](/images/3-notes.png)
 
 ## Project Description
 This project is a Single Page Application (SPA) built using **Laravel** for the backend and **Vue.js 3** for the frontend, incorporating a modern tech stack for a seamless user experience. It features a robust user authentication system using **JWT (JSON Web Tokens)** for secure login and registration, ensuring that only authorized users can access the system.
