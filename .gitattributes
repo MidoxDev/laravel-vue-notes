@@ -1,15 +1,16 @@
-* text=auto eol=lf
+# Ignore CSS files from language statistics
+*.css linguist-vendored
+*.scss linguist-vendored
 
-*.blade.php diff=html
-*.css diff=css
-*.html diff=html
-*.md diff=markdown
-*.php diff=php
+# Ensure PHP, Blade, and Vue files are detected
+*.php linguist-detectable
+*.blade.php linguist-detectable
+*.vue linguist-detectable
+*.js linguist-detectable
 
-/.github export-ignore
-CHANGELOG.md export-ignore
-.styleci.yml export-ignore
-
-vendor/* linguist-vendored
+# Ignore compiled/generated files and libraries
 node_modules/* linguist-vendored
+vendor/* linguist-vendored
 public/* linguist-vendored
+storage/* linguist-vendored
+bootstrap/* linguist-vendored
