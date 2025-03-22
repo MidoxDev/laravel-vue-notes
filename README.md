@@ -1,5 +1,43 @@
 # Note Management System with Authentication
+
+## Website Views:
+
+- **Login Page**:
+![Login Page](/images/2-login.png)
+
+- **Register Page**:
+![Register Page](/images/2-register.png)
+
+- **User Profile**:
+![User Profile](/images/8-user-actions.png)
+
+- **Home Page**:
 ![Notes Home](/images/3-notes.png)
+
+- **Create New Note**:
+![Create Note](/images/4-new-note.png)
+
+- **Update Note**:
+![Update Note](/images/5-update-note.png)
+
+- **Note Option**:
+![Note Option](/images/6-note-actions.png)
+
+- **New Folder**:
+![New Folder](/images/7-folder-action.png)
+
+
+
+## Mobile View:
+
+- **Note Home**:
+![Note Home](/images/1-note.png)
+
+- **Update Note**:
+![Update Note](/images/1-edit.png)
+
+- **Menu **:
+![Update Note](/images/3-all.png)
 
 ## Project Description
 This project is a Single Page Application (SPA) built using **Laravel** for the backend and **Vue.js 3** for the frontend, incorporating a modern tech stack for a seamless user experience. It features a robust user authentication system using **JWT (JSON Web Tokens)** for secure login and registration, ensuring that only authorized users can access the system.
