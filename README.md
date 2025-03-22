@@ -3,27 +3,35 @@
 ## Website Views:
 
 - **Login Page**:
+
 ![Login Page](/images/2-login.png)
 
 - **Register Page**:
+
 ![Register Page](/images/1-register.png)
 
 - **User Profile**:
+
 ![User Profile](/images/8-user-actions.png)
 
 - **Home Page**:
+
 ![Notes Home](/images/3-notes.png)
 
 - **Create New Note**:
+
 ![Create Note](/images/4-new-note.png)
 
 - **Update Note**:
+
 ![Update Note](/images/5-update-note.png)
 
 - **Note Options**:
+
 ![Note Option](/images/6-note-actions.png)
 
 - **New Folder**:
+
 ![New Folder](/images/7-folder-action.png)
 
 
@@ -31,12 +39,15 @@
 ## Mobile View:
 
 - **Note Home**:
+
 ![Note Home Mobile](/images/1-note.png)
 
 - **Update Note**:
+
 ![Update Note Mobile](/images/2-edit.png)
 
-- **Menu **:
+- **Menu**:
+
 ![Update Note](/images/3-all.png)
 
 ## Project Description
