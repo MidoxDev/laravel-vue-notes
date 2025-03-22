@@ -1,15 +1,13 @@
+* text=auto eol=lf
+
+*.blade.php diff=html
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+
+/.github export-ignore
+CHANGELOG.md export-ignore
+.styleci.yml export-ignore
 # Ignore specific CSS file (app.css)
 resources/css/app.css linguist-vendored
-
-# Ignore CSS and SCSS files from language stats
-*.css linguist-vendored
-*.scss linguist-vendored
-
-# Ignore vendor, storage, and public directories
-**/vendor/* linguist-vendored
-**/storage/* linguist-vendored
-public/* linguist-vendored
-
-# Ignore Blade templates and other PHP files from being counted
-**/*.blade.php linguist-vendored
-**/*.php linguist-vendored
