@@ -1,16 +1,15 @@
-# Ignore CSS files from language statistics
+# Ignore specific CSS file (app.css)
+resources/css/app.css linguist-vendored
+
+# Ignore CSS and SCSS files from language stats
 *.css linguist-vendored
 *.scss linguist-vendored
 
-# Ensure PHP, Blade, and Vue files are detected
-*.php linguist-detectable
-*.blade.php linguist-detectable
-*.vue linguist-detectable
-*.js linguist-detectable
-
-# Ignore compiled/generated files and libraries
-node_modules/* linguist-vendored
-vendor/* linguist-vendored
+# Ignore vendor, storage, and public directories
+**/vendor/* linguist-vendored
+**/storage/* linguist-vendored
 public/* linguist-vendored
-storage/* linguist-vendored
-bootstrap/* linguist-vendored
+
+# Ignore Blade templates and other PHP files from being counted
+**/*.blade.php linguist-vendored
+**/*.php linguist-vendored
