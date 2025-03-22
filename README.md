@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Note Management System with Authentication
 
 ## Project Description
@@ -70,10 +69,3 @@ This project is a Single Page Application (SPA) built using **Laravel** for the 
 ### Login Information:
 - Email : test@example.com
 - Password : password
-
-
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
->>>>>>> ddd2fcf (Initial commit)
