@@ -1,7 +1,9 @@
 # Ignore specific CSS file (app.css)
 resources/css/app.css linguist-vendored
 
-
+# Ignore CSS and SCSS files from language stats
+*.css linguist-vendored
+*.scss linguist-vendored
 
 # Ignore vendor, storage, and public directories
 **/vendor/* linguist-vendored
